@@ -1,4 +1,4 @@
-This pack requires Character Select to work: https://mods.sm64coopdx.com/mods/character-select.149/ /n
+This pack requires Character Select to work: https://mods.sm64coopdx.com/mods/character-select.149/
 This pack requires Easy Custom Moveset to work: https://mods.sm64coopdx.com/mods/easy-custom-moveset.485/
 
 Rowdy has pecked his way into SM64!
